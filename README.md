@@ -9,6 +9,7 @@ The **Greedy Best-First Search Algorithm** is an informed search strategy that s
 - Uses a heuristic function to estimate the cost from a node to the goal.
 - Always selects the node with the minimum heuristic value.
 - Does not guarantee finding the optimal path, but it is often faster in practice.
+![image](https://github.com/user-attachments/assets/f7b34bbf-5877-4ca0-a9ed-3be3d00e7e97)
 
 ## Problem Representation
 The graph used in this implementation is represented as an adjacency list:
